@@ -1,4 +1,4 @@
-.github/workflows/build-apk.yml
+name: Build RED LINE APK
 
 on:
   workflow_dispatch:
